@@ -1,4 +1,5 @@
-Coreify1.0 by Ayham
+Coreify by Ayham
+Version: 1.0
 
 Features:
   - Customizable Welcome screen
