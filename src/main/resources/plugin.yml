@@ -1,0 +1,17 @@
+name: Coreify
+version: '${project.version}'
+main: tech.ayham.coreify.Coreify
+api-version: '1.20'
+commands:
+  fly:
+    usage: /fly
+  coreifyreload:
+    usage: /coreifyreload
+  gmc:
+    usage: /gmc [player]
+  gms:
+    usage: /gms [player]
+  gma:
+    usage: /gma [player]
+  gmsp:
+    usage: /gmsp [player]
