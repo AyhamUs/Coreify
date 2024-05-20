@@ -1,5 +1,9 @@
 Coreify1.0 by Ayham
 
+Features:
+  - Customizable Welcome screen
+  - All of the commands listed below
+
 Commands:
   - /coreifyreload | Reloads the configuration.
   - /fly | Gives you the ability to fly.
